@@ -1,0 +1,1 @@
+My first file content in the 0x03-git project
